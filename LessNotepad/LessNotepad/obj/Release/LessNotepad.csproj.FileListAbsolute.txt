@@ -1,0 +1,10 @@
+D:\programs\LessNotepad\LessNotepad\bin\Release\LessNotepad.exe.config
+D:\programs\LessNotepad\LessNotepad\bin\Release\LessNotepad.exe
+D:\programs\LessNotepad\LessNotepad\bin\Release\LessNotepad.pdb
+D:\programs\LessNotepad\LessNotepad\obj\Release\LessNotepad.FirmChild.resources
+D:\programs\LessNotepad\LessNotepad\obj\Release\LessNotepad.FrmParent.resources
+D:\programs\LessNotepad\LessNotepad\obj\Release\LessNotepad.Properties.Resources.resources
+D:\programs\LessNotepad\LessNotepad\obj\Release\LessNotepad.csproj.GenerateResource.cache
+D:\programs\LessNotepad\LessNotepad\obj\Release\LessNotepad.csproj.CoreCompileInputs.cache
+D:\programs\LessNotepad\LessNotepad\obj\Release\LessNotepad.exe
+D:\programs\LessNotepad\LessNotepad\obj\Release\LessNotepad.pdb

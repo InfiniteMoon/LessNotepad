@@ -1,0 +1,11 @@
+D:\programs\LessNotepad\LessNotepad\bin\Debug\LessNotepad.exe.config
+D:\programs\LessNotepad\LessNotepad\bin\Debug\LessNotepad.exe
+D:\programs\LessNotepad\LessNotepad\bin\Debug\LessNotepad.pdb
+D:\programs\LessNotepad\LessNotepad\obj\Debug\LessNotepad.csproj.AssemblyReference.cache
+D:\programs\LessNotepad\LessNotepad\obj\Debug\LessNotepad.FirmChild.resources
+D:\programs\LessNotepad\LessNotepad\obj\Debug\LessNotepad.Properties.Resources.resources
+D:\programs\LessNotepad\LessNotepad\obj\Debug\LessNotepad.csproj.GenerateResource.cache
+D:\programs\LessNotepad\LessNotepad\obj\Debug\LessNotepad.csproj.CoreCompileInputs.cache
+D:\programs\LessNotepad\LessNotepad\obj\Debug\LessNotepad.exe
+D:\programs\LessNotepad\LessNotepad\obj\Debug\LessNotepad.pdb
+D:\programs\LessNotepad\LessNotepad\obj\Debug\LessNotepad.FrmParent.resources
